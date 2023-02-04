@@ -15,9 +15,9 @@ $ npm install
 ## Usage
 
 ```
-$ cd learn-gRPC
-```
 
+```
+$ cd learn-gRPC
 `learn-gRPC` is the directory where I store my dev projects. 
 
 ```
